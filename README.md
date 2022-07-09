@@ -17,8 +17,7 @@ arduino.py는 시리얼 통신을 통해서 파이썬에서 아두이노로 값�
 
 
 
-https://user-images.githubusercontent.com/35069745/178119364-af60e4d0-81dc-4dcd-8c75-aa38153dab76.mp4
-
+https://user-images.githubusercontent.com/35069745/178119528-90d6636e-a23b-46f1-b741-16b91d077d10.mp4
 
 
 
