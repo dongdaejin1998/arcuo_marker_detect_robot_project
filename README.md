@@ -21,4 +21,5 @@ https://user-images.githubusercontent.com/35069745/178119364-af60e4d0-81dc-4dcd-
 
 
 
-##자세한 내용은 pdf파일을 참고하시면 자세하게 나와있습니다.
+
+# 자세한 내용은 pdf파일을 참고하시면 자세하게 나와있습니다.
