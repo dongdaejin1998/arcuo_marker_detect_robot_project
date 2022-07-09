@@ -1,4 +1,4 @@
-### arcuo_marker_detect_robot_project
+# arcuo_marker_detect_robot_project
 
 ## 목적
 본 프로젝트는 AI로봇디자인이라는 수업을 통해서 진행되었다. 로봇아르테에서 의뢰를 받아서 만든 로봇이며 목적은 카메라를 통해서 엔드이펙터가 원하는 위치로 이동하고자 했다.
@@ -21,4 +21,4 @@ https://user-images.githubusercontent.com/35069745/178119528-90d6636e-a23b-46f1-
 
 
 
-# 자세한 내용은 pdf파일을 참고하시면 자세하게 나와있습니다.
+### 자세한 내용은 pdf파일을 참고하시면 자세하게 나와있습니다.
